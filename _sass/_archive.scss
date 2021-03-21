@@ -53,6 +53,7 @@
 .page__content {
 
   .archive__item-title {
+    text-align: justify;
     margin-top: 1em;
     border-bottom: none;
   }
@@ -63,6 +64,7 @@
   font-size: $type-size-6;
 
   & + p {
+    text-align: justify;
     text-indent: 0;
   }
 }
