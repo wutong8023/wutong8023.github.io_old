@@ -175,6 +175,10 @@
         @include prefix(0.5 of 12);
         @include suffix(1 of 12);
       }
+
+      p {
+        text-align: justify;
+      }
     }
   }
 
