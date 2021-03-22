@@ -7,12 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-
 ## 2021  
-* [Curriculum-Meta Learning for Order-Robust Continual Relation Extraction](https://arxiv.org/abs/2101.01926).       
+* Curriculum-Meta Learning for Order-Robust Continual Relation Extraction.       
     **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Reza Haffari, Guilin Qi, Yujin Zhu, Guoqiang Xu.    
     <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
-    [[code](https://github.com/wutong8023/AAAI-CML.git)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
+    [[code](https://github.com/wutong8023/AAAI-CML.git)] [[paper](https://arxiv.org/abs/2101.01926)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
 <div id="bibtex-LiICAPS21" style="display:none">
 <pre>@inproceedings{WuAAAI21,
   author    = {Tongtong Wu and
@@ -31,10 +30,10 @@ author_profile: true
 
 
 ## 2020  
-* [Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning](https://www.aclweb.org/anthology/2020.emnlp-main.469/).       
+* Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning.       
     Huanyun Cheng, Yuan-Fang Li, Reza Haffari, Guilin Qi, **Tongtong Wu**.    
     <i>the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)</i>, (in print), 2021.        
-    [[code](https://github.com/DevinJake/MRL-CQA)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
+    [[code](https://github.com/DevinJake/MRL-CQA)] [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.469/)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
 <div id="bibtex-LiICAPS21" style="display:none">
 <pre>@inproceedings{HuaLHQW20,
   author    = {Yuncheng Hua and
@@ -52,10 +51,10 @@ author_profile: true
 }
 </pre></div> 
 
-* [A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding](https://doi.org/10.3233/FAIA200184).       
+* A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding.       
     Meng Wang, **Tongtong Wu**, Guilin Qi.    
     <i>The 24th European Conference on Artificial Intelligence (**ECAI**)</i>, 2020.        
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
+    [[paper](https://doi.org/10.3233/FAIA200184)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
 <div id="bibtex-LiICAPS21" style="display:none">
 <pre>@inproceedings{mwngECAI2020,
   author    = {Meng Wang and
@@ -72,10 +71,10 @@ author_profile: true
 
 
 ## 2019  
-* [Zero-Shot Slot Filling via Latent Question Representation and Reading Comprehension](https://doi.org/10.1007/978-3-030-29894-4_10).       
+* Zero-Shot Slot Filling via Latent Question Representation and Reading Comprehension.       
     **Tongtong Wu**, Meng Wang, Huan Gao, Guilin Qi, Weizhuo Li.    
     <i>The 16th Pacific Rim International Conference on Artificial Intelligence (**PRICAI**)</i>, 2019.        
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
+    [[paper](https://doi.org/10.1007/978-3-030-29894-4_10)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
 <div id="bibtex-LiICAPS21" style="display:none">
 <pre>@InProceedings{10.1007/978-3-030-29894-4_10,
 author="Wu, Tongtong
