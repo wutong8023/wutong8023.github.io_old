@@ -52,7 +52,7 @@ author_profile: true
 }
 </pre></div> 
 
-* [A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding]().       
+* [A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding](https://doi.org/10.3233/FAIA200184).       
     Meng Wang, **Tongtong Wu**, Guilin Qi.    
     <i>The 24th European Conference on Artificial Intelligence (**ECAI**)</i>, 2020.        
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
@@ -72,7 +72,7 @@ author_profile: true
 
 
 ## 2019  
-* Zero-Shot Slot Filling via Latent Question Representation and Reading Comprehension.       
+* [Zero-Shot Slot Filling via Latent Question Representation and Reading Comprehension](https://doi.org/10.1007/978-3-030-29894-4_10).       
     **Tongtong Wu**, Meng Wang, Huan Gao, Guilin Qi, Weizhuo Li.    
     <i>The 16th Pacific Rim International Conference on Artificial Intelligence (**PRICAI**)</i>, 2019.        
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
