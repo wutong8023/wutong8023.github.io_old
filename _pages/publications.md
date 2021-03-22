@@ -24,8 +24,8 @@ author_profile: true
   url       = {https://arxiv.org/abs/2101.01926},
 }
 </pre></div>       
-  - **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Reza Haffari, Guilin Qi, Yujin Zhu, Guoqiang Xu.    
-  - <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
+  > **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Reza Haffari, Guilin Qi, Yujin Zhu, Guoqiang Xu.    
+  > <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
     
 
 
@@ -47,8 +47,8 @@ author_profile: true
   url       = {https://doi.org/10.18653/v1/2020.emnlp-main.469}
 }
 </pre></div>     
-  - Huanyun Cheng, Yuan-Fang Li, Reza Haffari, Guilin Qi, **Tongtong Wu**.    
-  - <i>the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)</i>, 2020.        
+  > Huanyun Cheng, Yuan-Fang Li, Reza Haffari, Guilin Qi, **Tongtong Wu**.    
+  > <i>the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)</i>, 2020.        
     
 
 * A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding. [[paper](https://doi.org/10.3233/FAIA200184)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
@@ -65,8 +65,8 @@ author_profile: true
   url       = {https://doi.org/10.3233/FAIA200184}
 }
 </pre></div> 
-  - Meng Wang, **Tongtong Wu**, Guilin Qi.    
-  - <i>The 24th European Conference on Artificial Intelligence (**ECAI**)</i>, 2020.        
+  > Meng Wang, **Tongtong Wu**, Guilin Qi.    
+  > <i>The 24th European Conference on Artificial Intelligence (**ECAI**)</i>, 2020.        
     
 
 
@@ -85,6 +85,6 @@ year="2019",
 pages="123--136",
 }
 </pre></div> 
-  - **Tongtong Wu**, Meng Wang, Huan Gao, Guilin Qi, Weizhuo Li.    
-  - <i>The 16th Pacific Rim International Conference on Artificial Intelligence (**PRICAI**)</i>, 2019.        
+  > **Tongtong Wu**, Meng Wang, Huan Gao, Guilin Qi, Weizhuo Li.    
+  > <i>The 16th Pacific Rim International Conference on Artificial Intelligence (**PRICAI**)</i>, 2019.        
     
