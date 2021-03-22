@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2021  
 * **Curriculum-Meta Learning for Order-Robust Continual Relation Extraction.**<br>
-  **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Reza Haffari, Guilin Qi, Yujin Zhu, Guoqiang Xu.<br>  
+  **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Reza Haffari, Guilin Qi, Yujin Zhu, Guoqiang Xu.  
   <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print)<br>
   [[code](https://github.com/wutong8023/AAAI-CML.git)] [[paper](https://arxiv.org/abs/2101.01926)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
   <div id="bibtex-LiICAPS21" style="display:none">
