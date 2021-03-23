@@ -76,6 +76,10 @@
   // set width only, for non-square avatars
   // height: 36px;
 
+  -webkit-transition: -webkit-transform 1.0s ease-out;
+  -moz-transition: -moz-transform 1.0s ease-out;
+  transition: transform 1.0s ease-out;
+
   @include breakpoint($large) {
     display: block;
     width: auto;
