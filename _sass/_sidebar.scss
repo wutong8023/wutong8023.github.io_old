@@ -93,20 +93,6 @@
   }
 }
 
-.author__avatar:hover {
-  transform:rotate(360deg);
-  -ms-transform:rotate(360deg); 
-  -moz-transform:rotate(360deg); 
-  -webkit-transform:rotate(360deg); 
-  -o-transform:rotate(360deg); 
-  transition:1.4s;
-  -webkit-transition:1.4s;
-  -moz-transition:1.4s;
-  -o-transition:1.4s
-  }
-
-
-
 .author__content {
   display: table-cell;
   vertical-align: top;
