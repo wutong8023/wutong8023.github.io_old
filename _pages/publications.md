@@ -11,8 +11,8 @@ author_profile: true
 * **Curriculum-Meta Learning for Order-Robust Continual Relation Extraction.**<br>
   **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Reza Haffari, Guilin Qi, Yujin Zhu, Guoqiang Xu.  
   <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print)<br>
-  [[code](https://github.com/wutong8023/AAAI-CML.git)] [[paper](https://arxiv.org/abs/2101.01926)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
-  <div id="bibtex-LiICAPS21" style="display:none">
+  [[code](https://github.com/wutong8023/AAAI-CML.git)] [[paper](https://arxiv.org/abs/2101.01926)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'WuAAAI21');">bibtex</a>]
+  <div id="WuAAAI21" style="display:none">
   <pre>@inproceedings{WuAAAI21,
   author    = {Tongtong Wu and
                Xuekai Li and
@@ -31,8 +31,8 @@ author_profile: true
 * **Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning.** <br> 
   Huanyun Cheng, Yuan-Fang Li, Reza Haffari, Guilin Qi, **Tongtong Wu**. <br> 
   <i>the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)</i><br>
-  [[code](https://github.com/DevinJake/MRL-CQA)] [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.469/)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
-  <div id="bibtex-LiICAPS21" style="display:none">
+  [[code](https://github.com/DevinJake/MRL-CQA)] [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.469/)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'HuaLHQW20');">bibtex</a>]
+  <div id="HuaLHQW20" style="display:none">
   <pre>@inproceedings{HuaLHQW20,
     author    = {Yuncheng Hua and
                Yuan{-}Fang Li and
@@ -51,8 +51,8 @@ author_profile: true
 * **A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding.** <br>
   Meng Wang, **Tongtong Wu**, Guilin Qi.<br>
   <i>The 24th European Conference on Artificial Intelligence (**ECAI**)</i> <br>
-  [[paper](https://doi.org/10.3233/FAIA200184)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
-  <div id="bibtex-LiICAPS21" style="display:none">
+  [[paper](https://doi.org/10.3233/FAIA200184)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'mwngECAI2020');">bibtex</a>]
+  <div id="mwngECAI2020" style="display:none">
   <pre>@inproceedings{mwngECAI2020,
     author    = {Meng Wang and
                Tongtong Wu and
@@ -70,9 +70,9 @@ author_profile: true
 * **Zero-Shot Slot Filling via Latent Question Representation and Reading Comprehension.**<br>
   **Tongtong Wu**, Meng Wang, Huan Gao, Guilin Qi, Weizhuo Li. <br>
   <i>The 16th Pacific Rim International Conference on Artificial Intelligence (**PRICAI**)</i><br>
-  [[paper](https://doi.org/10.1007/978-3-030-29894-4_10)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
-  <div id="bibtex-LiICAPS21" style="display:none">
-  <pre>@InProceedings{10.1007/978-3-030-29894-4_10,
+  [[paper](https://doi.org/10.1007/978-3-030-29894-4_10)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'zssfWU19');">bibtex</a>]
+  <div id="zssfWU19" style="display:none">
+  <pre>@InProceedings{zssfWU19,
   author="Wu, Tongtong
   and Wang, Meng
   and Gao, Huan
