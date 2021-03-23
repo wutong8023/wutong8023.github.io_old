@@ -76,10 +76,6 @@
   // set width only, for non-square avatars
   // height: 36px;
 
-  -webkit-transition: -webkit-transform 1.0s ease-out;
-  -moz-transition: -moz-transform 1.0s ease-out;
-  transition: transform 1.0s ease-out;
-
   @include breakpoint($large) {
     display: block;
     width: auto;
@@ -96,6 +92,20 @@
     }
   }
 }
+
+.author__avatar:hover {
+  transform:rotate(360deg);
+  -ms-transform:rotate(360deg); 
+  -moz-transform:rotate(360deg); 
+  -webkit-transform:rotate(360deg); 
+  -o-transform:rotate(360deg); 
+  transition:1.4s;
+  -webkit-transition:1.4s;
+  -moz-transition:1.4s;
+  -o-transition:1.4s
+  }
+
+
 
 .author__content {
   display: table-cell;
