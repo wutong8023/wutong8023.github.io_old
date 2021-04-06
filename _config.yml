@@ -85,8 +85,8 @@ author:
   bio              : "Continual Learning, Few-shot Learning, NLPer"
   location         : "Melbourne, AU"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.hk/citations?user=u1Qp8lUAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "wutong8023"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/tongtong-wu-177400110/"
+  orcid            : "https://orcid.org/0000-0002-5752-9779"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/7962977/parasol"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "TongtongWu6"
   vine             :
   weibo            :
   xing             :
