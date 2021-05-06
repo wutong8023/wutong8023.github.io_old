@@ -10,7 +10,7 @@ author_profile: true
 ## 2021  
 * **Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection.**<br>
   Shirong Shen, **Tongtong Wu**, Guilin Qi, Yuan-Fang Li, Reza Haffari, Sheng Bi.  
-  <i>The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (**ACL-IJCNLP 2021**)</i>, (in print)<br>
+  <i>Findings of (**ACL-IJCNLP 2021**)</i>, (in print)<br>
   [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'SSRACL21');">bibtex</a>]
   <div id="SSRACL21" style="display:none">
   <pre>@inproceedings{SSRACL21,
