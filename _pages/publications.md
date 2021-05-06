@@ -10,7 +10,7 @@ author_profile: true
 ## 2021  
 * **Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection.**<br>
   Shirong Shen, **Tongtong Wu**, Guilin Qi, Yuan-Fang Li, Reza Haffari, Sheng Bi.  
-  <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print)<br>
+  <i>The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (**ACL-IJCNLP 2021**)</i>, (in print)<br>
   [[code](https://github.com/wutong8023/AAAI-CML.git)] [[paper](https://arxiv.org/abs/2101.01926)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'SSRACL21');">bibtex</a>]
   <div id="SSRACL21" style="display:none">
   <pre>@inproceedings{SSRACL21,
@@ -28,7 +28,7 @@ author_profile: true
 
 * **Curriculum-Meta Learning for Order-Robust Continual Relation Extraction.**<br>
   **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Reza Haffari, Guilin Qi, Yujin Zhu, Guoqiang Xu.  
-  <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print)<br>
+  <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**)</i><br>
   [[code](https://github.com/wutong8023/AAAI-CML.git)] [[paper](https://arxiv.org/abs/2101.01926)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'WuAAAI21');">bibtex</a>]
   <div id="WuAAAI21" style="display:none">
   <pre>@inproceedings{WuAAAI21,
