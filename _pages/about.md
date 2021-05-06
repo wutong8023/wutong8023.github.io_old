@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in Computer Science at Southeast University, co-supervised by Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm) (SEU), A.Prof. [Reza Haffari](https://users.monash.edu.au/~gholamrh/) (Monash) and Dr. [Yuan-Fang Li](https://users.monash.edu.au/~yli/) (Monash). My research interests include low-resource natural language processing, especially few-shot learning, continual learning for information extraction.
+I am a fourth year Ph.D. student in Computer Science at Southeast University, co-supervised by Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm) (SEU), Prof. [Reza Haffari](https://users.monash.edu.au/~gholamrh/) (Monash) and Dr. [Yuan-Fang Li](https://users.monash.edu.au/~yli/) (Monash). My research interests include low-resource natural language processing, especially few-shot learning, continual learning for information extraction.
 
 ## News
 * \[2021.05\] 1 paper accepted to [Findings of ACL-IJCNLP 2021](https://2021.aclweb.org).
