@@ -9,25 +9,25 @@ author_profile: true
 
 ## 2021
 * **Pretrained Language Model for Continual Learning: A Comparative Study.**<br>
-  **Tongtong Wu**, Massimo Caccia, Zhuang Li, Yuan-Fang Li, Guilin Qi, Reza Haffari.
+  **Tongtong Wu**, Massimo Caccia, Zhuang Li, Yuan-Fang Li, Guilin Qi, Reza Haffari.<br>
   <i>EMNLP 2021</i>, (Under Review)<br>
   [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'wu_plm4cl21');">bibtex</a>]
   <div id="wu_plm4cl21" style="display:none">
 
 * **Task-Aware Meta-Learning for Continual Language Learning.**<br>
-  **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Guilin Qi, Reza Haffari.
+  **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Guilin Qi, Reza Haffari. <br>
   <i>Journal: Information Processing and Management</i>, (Under Review)<br>
   [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'wu_tame21');">bibtex</a>]
   <div id="wu_tame21" style="display:none">
 
 * **Neural Topic Modeling with Deep Mutual Information Estimation.**<br>
-  Kang Xu, Xiaoqiu Lu, Yuan-fang Li, **Tongtong Wu**, Guilin Qi, Ning Ye.
+  Kang Xu, Xiaoqiu Lu, Yuan-fang Li, **Tongtong Wu**, Guilin Qi, Ning Ye.<br>
   <i>Journal: Information Processing and Management</i>, (Under Review)<br>
   [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'IPM_kangxu21');">bibtex</a>]
   <div id="IPM_kangxu21" style="display:none">
 
 * **Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection.**<br>
-  Shirong Shen, **Tongtong Wu**, Guilin Qi, Yuan-Fang Li, Reza Haffari, Sheng Bi.  
+  Shirong Shen, **Tongtong Wu**, Guilin Qi, Yuan-Fang Li, Reza Haffari, Sheng Bi.<br>
   <i>Findings of (**ACL-IJCNLP 2021**)</i>, (Accepted)<br>
   [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'SSRACL21');">bibtex</a>]
   <div id="SSRACL21" style="display:none">
@@ -45,7 +45,7 @@ author_profile: true
   </pre></div>  
 
 * **Curriculum-Meta Learning for Order-Robust Continual Relation Extraction.**<br>
-  **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Reza Haffari, Guilin Qi, Yujin Zhu, Guoqiang Xu.  
+  **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Reza Haffari, Guilin Qi, Yujin Zhu, Guoqiang Xu.<br>
   <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**)</i><br>
   [[code](https://github.com/wutong8023/AAAI-CML.git)] [[paper](https://arxiv.org/abs/2101.01926)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'WuAAAI21');">bibtex</a>]
   <div id="WuAAAI21" style="display:none">
