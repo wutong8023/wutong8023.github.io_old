@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in Computer Science at Southeast University, co-supervised by Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm) (SEU), Prof. [Reza Haffari](https://users.monash.edu.au/~gholamrh/) (Monash) and Dr. [Yuan-Fang Li](https://users.monash.edu.au/~yli/) (Monash). My research interests include low-resource natural language processing and machine learning, especially information extraction, few-shot learning, and continual learning.
+I am a PhD candidate in Computer Science at Southeast University, co-supervised by Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm) (SEU), Prof. [Reza Haffari](https://users.monash.edu.au/~gholamrh/) (Monash) and Dr. [Yuan-Fang Li](https://users.monash.edu.au/~yli/) (Monash). My research interests include low-resource natural language processing and machine learning, especially information extraction, dialogue system, few-shot learning, and continual learning.
 
-I am looking for a posdoc position！Please feel free to let me know if you have an interest in my research.
+NOTE: I am looking for a posdoc position！Please feel free to let me know if you have an interest in my research.
 
 ## News
 * \[2021.07\] 1 invited talk prepared for [Joint Lab on Knoweldge Engine of AZFT](https://azft.alibaba.com/lab/?id=7) named "Advances of Continual Learning for NLP: What We Build and What We Need".
