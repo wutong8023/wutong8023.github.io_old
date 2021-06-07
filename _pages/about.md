@@ -13,9 +13,9 @@ I am a fourth year Ph.D. student in Computer Science at Southeast University, co
 I am looking for a posdoc position.
 
 ## News
-* \[2021.06\] 1 invited talk given to [Joint Lab on Knoweldge Engine of AZFT](https://azft.alibaba.com/lab/?id=7) on "Advances of Continual Learning for NLP: What We Build and What We Need".
+* \[2021.06\] 1 invited talk given to [Joint Lab on Knoweldge Engine of AZFT](https://azft.alibaba.com/lab/?id=7) named "Advances of Continual Learning for NLP: What We Build and What We Need".
 * \[2021.05\] 1 paper accepted to [Findings of ACL-IJCNLP 2021](https://2021.aclweb.org).
-* \[2021.02\] 1 virtual talk at [AI-Time](https://www.bilibili.com/video/BV1X54y1h7qm?from=search&seid=10454833663975273666) on continual relation extraction.
+* \[2021.02\] 1 invited talk given to [AI-Time](https://www.bilibili.com/video/BV1X54y1h7qm?from=search&seid=10454833663975273666) named "Continual Relation Extraction".
 * \[2020.12\] 1 paper accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * \[2020.09\] 1 paper accepted to [EMNLP 2020](https://2020.emnlp.org).
 
