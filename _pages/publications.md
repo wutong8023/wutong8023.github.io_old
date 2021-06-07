@@ -7,7 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-## 2021  
+## 2021
+* **Pretrained Language Model for Continual Learning: A Comparative Study.**<br>
+  **Tongtong Wu**, Massimo Caccia, Zhuang Li, Yuan-Fang Li, Guilin Qi, Reza Haffari.
+  <i>EMNLP 2021</i>, (Under Review)<br>
+  [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'wu_plm4cl21');">bibtex</a>]
+  <div id="wu_plm4cl21" style="display:none">
+
+* **Task-Aware Meta-Learning for Continual Language Learning.**<br>
+  **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Guilin Qi, Reza Haffari.
+  <i>Journal: Information Processing and Management</i>, (Under Review)<br>
+  [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'wu_tame21');">bibtex</a>]
+  <div id="wu_tame21" style="display:none">
+
+* **Neural Topic Modeling with Deep Mutual Information Estimation.**<br>
+  Kang Xu, Xiaoqiu Lu, Yuan-fang Li, **Tongtong Wu**, Guilin Qi, Ning Ye.
+  <i>Journal: Information Processing and Management</i>, (Under Review)<br>
+  [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'IPM_kangxu21');">bibtex</a>]
+  <div id="IPM_kangxu21" style="display:none">
+
 * **Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection.**<br>
   Shirong Shen, **Tongtong Wu**, Guilin Qi, Yuan-Fang Li, Reza Haffari, Sheng Bi.  
   <i>Findings of (**ACL-IJCNLP 2021**)</i>, (Accepted)<br>
@@ -47,6 +65,26 @@ author_profile: true
   </pre></div>   
     
 ## 2020  
+* **A Knowledge-Enriched and Span-Based Network for Joint Entity and Relation Extraction.** <br> 
+  Huanyun Cheng, Yuan-Fang Li, Reza Haffari, Guilin Qi, **Tongtong Wu**. <br> 
+  <i>the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)</i><br>
+  [[code](https://github.com/DevinJake/MRL-CQA)] [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.469/)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'HuaLHQW20');">bibtex</a>]
+  <div id="HuaLHQW20" style="display:none">
+  <pre>@inproceedings{HuaLHQW20,
+    author    = {Yuncheng Hua and
+               Yuan{-}Fang Li and
+               Gholamreza Haffari and
+               Guilin Qi and
+               Tongtong Wu},
+    title     = {Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement
+               Learning},
+    booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural
+               Language Processing (EMNLP)},
+    pages     = {5827--5837},
+    year      = {2020},
+    url       = {https://doi.org/10.18653/v1/2020.emnlp-main.469}
+    }
+  </pre></div>  
 * **Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning.** <br> 
   Huanyun Cheng, Yuan-Fang Li, Reza Haffari, Guilin Qi, **Tongtong Wu**. <br> 
   <i>the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)</i><br>
