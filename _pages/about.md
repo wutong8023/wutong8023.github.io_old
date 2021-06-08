@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at Southeast University, co-supervised by Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm) (SEU), Prof. [Reza Haffari](https://users.monash.edu.au/~gholamrh/) (Monash) and Dr. [Yuan-Fang Li](https://users.monash.edu.au/~yli/) (Monash). My research interests include low-resource natural language processing and machine learning, especially information extraction, dialogue system, few-shot learning, and continual learning.
+I am a Ph.D. candidate in school of computer science at Southeast University, co-supervised by Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm) (SEU), Prof. [Reza Haffari](https://users.monash.edu.au/~gholamrh/) (Monash) and Dr. [Yuan-Fang Li](https://users.monash.edu.au/~yli/) (Monash). My research interests include low-resource natural language processing and machine learning, especially information extraction, dialogue system, few-shot learning, and continual learning.
 
 **NOTE**: I am looking for a **postdoc** position！Please feel free to let me know if you have an interest in my research.
 
