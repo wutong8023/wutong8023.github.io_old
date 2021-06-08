@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tongtong WU"
 title_separator          : "-"
-name                     : &name "Tongtong WU (吴桐桐)"
+name                     : &name "Tongtong WU 吴桐桐"
 description              : &description "NLPer"
 url                      : https://wutong8023.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
