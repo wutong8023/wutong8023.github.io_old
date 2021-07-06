@@ -19,7 +19,7 @@ author_profile: true
   <i>EMNLP 2021</i>, (Under Review)<br>
   [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'wu_tame21');">bibtex</a>]
   <div id="wu_tame21" style="display:none"> -->
-
+<!--  -->
 * **Neural Topic Modeling with Deep Mutual Information Estimation.**<br>
   Kang Xu, Xiaoqiu Lu, Yuan-fang Li, **Tongtong Wu**, Guilin Qi, Ning Ye.<br>
   <i>Journal: Information Processing and Management</i>, (Under Review)<br>
