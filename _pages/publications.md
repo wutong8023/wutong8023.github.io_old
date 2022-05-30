@@ -7,12 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-## 2021
+## 2022
 * **Pretrained Language Model for Continual Learning: A Comparative Study.**<br>
   **Tongtong Wu**, Massimo Caccia, Zhuang Li, Yuan-Fang Li, Guilin Qi, Reza Haffari.<br>
-  <i>Under Review</i><br>
+  <i>ICLR</i><br>
   [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'wu_plm4cl21');">bibtex</a>]
   <div id="wu_plm4cl21" style="display:none">
+  <pre>@inproceedings{
+wu2022pretrained,
+title={Pretrained Language Model in Continual Learning: A Comparative Study},
+author={Tongtong Wu and Massimo Caccia and Zhuang Li and Yuan-Fang Li and Guilin Qi and Gholamreza Haffari},
+booktitle={Proceedings of ICLR},
+year={2022},
+url={https://openreview.net/forum?id=figzpGMrdD},
+}
+  </pre></div> 
 
 * **Task-Aware Meta-Learning for Continual Language Learning.**<br>
   **Tongtong Wu**, Xuekai Li, Yuan-Fang Li, Guilin Qi, Reza Haffari. <br>
@@ -25,6 +34,8 @@ author_profile: true
   <i>Journal: Information Processing and Management</i>, (Under Review)<br>
   [[code]()] [[paper]()] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'IPM_kangxu21');">bibtex</a>]
   <div id="IPM_kangxu21" style="display:none">
+
+## 2021
 
 * **Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection.**<br>
   Shirong Shen, **Tongtong Wu**, Guilin Qi, Yuan-Fang Li, Reza Haffari, Sheng Bi.<br>
